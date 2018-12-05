@@ -1,4 +1,4 @@
-# Lab 5
+# Lab 6
 
 # ex1
 ![Alt text](https://github.com/FreakishNature/DB/blob/master/lab6/screenshots/ex1.png)
