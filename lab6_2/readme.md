@@ -27,4 +27,4 @@
 # ex6-7-8
 ![Alt text](https://github.com/FreakishNature/DB/blob/master/lab6_2/screenshots/ex_6_7_8.png)
 
-![Alt text](https://github.com/KatyaFAF172/BD/blob/master/Laboratory-work-6/image/ex8.PNG)
+![Alt text](https://github.com/FreakishNature/DB/blob/master/lab6_2/screenshots/ex8.PNG)
