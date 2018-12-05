@@ -26,14 +26,14 @@
 ![Alt text](https://github.com/FreakishNature/DB/blob/master/lab7/screenshots/ex6.PNG)
 
 # ex7
-![Alt text](https://github.com/FreakishNature/DB/blob/master/lab7/screenshots/ex7.1.png)
+![Alt text](https://github.com/FreakishNature/DB/blob/master/lab7/screenshots/ex7.1.PNG)
 
 
-![Alt text](https://github.com/FreakishNature/DB/blob/master/lab7/screenshots/ex7.2.png)
+![Alt text](https://github.com/FreakishNature/DB/blob/master/lab7/screenshots/ex7.2.PNG)
 
 
 # ex8
-![Alt text](https://github.com/FreakishNature/DB/blob/master/lab7/screenshots/ex8.1.png)
-![Alt text](https://github.com/FreakishNature/DB/blob/master/lab7/screenshots/ex8.2.png)
-![Alt text](https://github.com/FreakishNature/DB/blob/master/lab7/screenshots/ex8.3.png)
+![Alt text](https://github.com/FreakishNature/DB/blob/master/lab7/screenshots/ex8.1.PNG)
+![Alt text](https://github.com/FreakishNature/DB/blob/master/lab7/screenshots/ex8.2.PNG)
+![Alt text](https://github.com/FreakishNature/DB/blob/master/lab7/screenshots/ex8.3.PNG)
 
