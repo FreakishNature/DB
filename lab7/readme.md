@@ -13,13 +13,13 @@
 
 
 # ex4
-![Alt text](https://github.com/FreakishNature/DB/blob/master/lab7/screenshots/ex4.1.PNG)
+![Alt text](https://github.com/FreakishNature/DB/blob/master/lab7/screenshots/ex4.1.png)
 
-![Alt text](https://github.com/FreakishNature/DB/blob/master/lab7/screenshots/ex4.2.PNG)
+![Alt text](https://github.com/FreakishNature/DB/blob/master/lab7/screenshots/ex4.2.png)
 
 
 # ex5
-![Alt text](https://github.com/FreakishNature/DB/blob/master/lab7/screenshots/ex_5.png)
+![Alt text](https://github.com/FreakishNature/DB/blob/master/lab7/screenshots/ex_5.PNG)
 
 
 # ex6
