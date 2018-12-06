@@ -19,7 +19,7 @@
 
 
 # ex5
-![Alt text](https://github.com/FreakishNature/DB/blob/master/lab7/screenshots/ex_5.PNG)
+![Alt text](https://github.com/FreakishNature/DB/blob/master/lab7/screenshots/ex5.PNG)
 
 
 # ex6
